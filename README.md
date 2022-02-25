@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Mittal
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning App Development(In Flutter) 
+- 🌱 I’m currently into competitive programming 
 - 💞️ I’m looking to collaborate on ...Any mentor who can guide me through GSoC
 - 📫 How to reach me ...aayush102003@gmail.com
 
